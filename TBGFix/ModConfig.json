@@ -1,0 +1,25 @@
+{
+  "ModId": "TBGFix",
+  "ModName": "TBGFix",
+  "ModAuthor": "NotNite",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Fixes The Beginner's Guide with high CPU core counts.",
+  "ModDll": "TBGFix.dll",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "beginnersguide.exe"
+  ]
+}
